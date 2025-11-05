@@ -14,3 +14,4 @@ Also learned and practisec id selectors, class selectors.
    Background coloring
    Text alinment
    Hover effect
+-Made the web page responsive
